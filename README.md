@@ -1,5 +1,5 @@
 # 💫 About Me:
-Senior Frontend Developer 
+Frontend Developer 
 
 
 ## 🌐 Socials:
