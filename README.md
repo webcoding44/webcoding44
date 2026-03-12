@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 🖐️<br><br>I'm a Full-Stack Developer with expertise in HTML, CSS, JavaScript, TypeScript, React, Next.JS, Redux, Tailwind CSS, GSAP, Three.js, Supabase, SQL, PostgreSQL, Design Patterns, and System Design. I build modern, responsive, and user-friendly web applications with clean code and smooth animations. My focus is on performance, detail, and quality — ensuring every project meets client expectations.<br><br>You can find me here:<br>🔗 LinkedIn [https://www.linkedin.com/in/safiurahman-jami-/]<br>🔗 Portfolio [https://the-new-portfolio-vert.vercel.app/]<br>🔗  x.com [https://x.com/workonline34977]<br><br><br>
+Hi there 🖐️<br><br>I'm a Front-End Engineer with expertise in HTML, CSS, JavaScript, TypeScript, React, Next.JS, Redux, Tailwind CSS, GSAP, Three.js, Design Patterns, and System Design. I build modern, responsive, and user-friendly web applications with clean code and smooth animations. My focus is on performance, detail, and quality — ensuring every project meets client expectations.<br><br>You can find me here:<br>🔗 LinkedIn [https://www.linkedin.com/in/safiurahman-jami-/]<br>🔗 Portfolio [https://the-new-portfolio-vert.vercel.app/]<br>🔗  x.com [https://x.com/workonline34977]<br><br><br>
 
 
 ## 🌐 Socials:
