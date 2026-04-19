@@ -19,7 +19,7 @@ Hi there 🖐️<br><br>I'm a Front-End Engineer with expertise in HTML, CSS, Ja
 
 
 <!-- profile view count -->
-<img align="right" src="https://komarev.com/ghpvc/?username=sanidhyy">
+<img align="right" src="[https://komarev.com/ghpvc/?username=sanidhyy](https://github.com/webcoding44)">
 
 <!-- introduction -->
 <h1 align="center">
@@ -31,10 +31,10 @@ Hi there 🖐️<br><br>I'm a Front-End Engineer with expertise in HTML, CSS, Ja
 <br />
 <!-- about me -->
 <p align="center">
-  Hi, I'm Sanidhya Kumar Verma, Web Developer/Coder 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ from India 🇮🇳.
+  Hi, I'm Safiurahman Jami , Full-Stack Softwere Engineer /Coder 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ from Afghanistan 🇮🇳.
   <br />
   <br />
-  🎓 Currently a high school student.
+  🎓 Currently a University student.
   <br />
   💻 I love to learn new technologies and frameworks.
   <br />
@@ -152,7 +152,7 @@ Hi there 🖐️<br><br>I'm a Front-End Engineer with expertise in HTML, CSS, Ja
 <!-- first row -->
 <div width="100%" align="center">
   <!-- repo 1 -->
-  <a align="right" href="https://github.com/sanidhyy/duolingo-clone" title="Duolingo Clone">
+  <a align="right" href="" title="Duolingo Clone">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=duolingo-clone&theme=react&border_color=61dafb&border_radius=10.0" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=duolingo-clone&theme=graywhite&border_radius=10.0" />
@@ -161,7 +161,7 @@ Hi there 🖐️<br><br>I'm a Front-End Engineer with expertise in HTML, CSS, Ja
   </a>
 
   <!-- repo 2 -->
-  <a align="left" href="https://github.com/sanidhyy/3d-portfolio" title="3D Portfolio">
+  <a align="left" href="" title="3D Portfolio">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=3d-portfolio&theme=react&border_color=61dafb&border_radius=10" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=3d-portfolio&theme=graywhite&border_radius=10" />
@@ -173,7 +173,7 @@ Hi there 🖐️<br><br>I'm a Front-End Engineer with expertise in HTML, CSS, Ja
 <!-- second row -->
 <div width="100%" align="center">
   <!-- repo 3 -->
-  <a align="left" href="https://github.com/sanidhyy/mern-admin" title="MERN Admin Dashboard">
+  <a align="left" href="" title="MERN Admin Dashboard">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=mern-admin&theme=react&border_color=61dafb&border_radius=10" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=mern-admin&theme=graywhite&border_radius=10" />
@@ -182,7 +182,7 @@ Hi there 🖐️<br><br>I'm a Front-End Engineer with expertise in HTML, CSS, Ja
   </a>
 
   <!-- repo 4 -->
-  <a align="right" href="https://github.com/sanidhyy/brainwave" title="Brainwave SaaS Landing Page">
+  <a align="right" href="" title="Brainwave SaaS Landing Page">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=brainwave&theme=react&border_color=61dafb&border_radius=10" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=brainwave&theme=graywhite&border_radius=10" />
