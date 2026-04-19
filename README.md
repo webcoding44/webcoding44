@@ -131,50 +131,7 @@
 
 <hr />
 
-<!-- repositories -->
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br />
-<!-- first row -->
-<div width="100%" align="center">
-  <!-- repo 1 -->
-  <a align="right" href="" title="Duolingo Clone">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=duolingo-clone&theme=react&border_color=61dafb&border_radius=10.0" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=duolingo-clone&theme=graywhite&border_radius=10.0" />
-      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=duolingo-clone&theme=graywhite&border_radius=10.0" alt="sanidhyy's repository stats - Duolingo Clone" />
-    </picture>
-  </a>
 
-  <!-- repo 2 -->
-  <a align="left" href="" title="3D Portfolio">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=3d-portfolio&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=3d-portfolio&theme=graywhite&border_radius=10" />
-      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=3d-portfolio&theme=graywhite&border_radius=10" alt="sanidhyy's repository stats - 3D portfolio" />
-    </picture>
-  </a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<!-- second row -->
-<div width="100%" align="center">
-  <!-- repo 3 -->
-  <a align="left" href="" title="MERN Admin Dashboard">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=mern-admin&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=mern-admin&theme=graywhite&border_radius=10" />
-      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=mern-admin&theme=graywhite&border_radius=10" alt="sanidhyy's repository stats - MERN Admin Dashboard" />
-    </picture>
-  </a>
-
-  <!-- repo 4 -->
-  <a align="right" href="" title="Brainwave SaaS Landing Page">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=brainwave&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=brainwave&theme=graywhite&border_radius=10" />
-      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=brainwave&theme=graywhite&border_radius=10" alt="sanidhyy's repository stats - Brainwave SaaS Landing Page" />
-    </picture>
-  </a>
-</div>
 
 <!-- spaces -->
 
@@ -182,5 +139,5 @@
 
 <!-- show more repos -->
 <h4 align="center">
-  <a href="https://github.com/sanidhyy?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/webcoding44?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
