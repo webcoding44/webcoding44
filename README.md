@@ -44,11 +44,24 @@
 <p align="center">
   <a href="https://skillicons.dev">
       <!-- first row -->
-      <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=dark" />
-<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=light" />
-          <img src="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=light" alt="skills - 1" />
-        </picture>
+   
+   <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp , cs , java , py , "/>
+  </a>
+</p>
+   <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html , css , tailwind , js , ts , threejs , react , redux  ,nextjs , materialui "/>
+  </a>
+</p>
+</p>
+   <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet , fastapi , graphql , mongodb , postgres , nginx , sentry "/>
+  </a>
+</p>
+
           <br />
           <!-- second row -->
           <picture>
@@ -137,11 +150,7 @@
 
 <br /><br /><br /><br /><br /><br />
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp"/>
-  </a>
-</p>
+
 
 <!-- show more repos -->
 <h4 align="center">
