@@ -137,6 +137,12 @@
 
 <br /><br /><br /><br /><br /><br />
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
 <!-- show more repos -->
 <h4 align="center">
   <a href="https://github.com/webcoding44?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
