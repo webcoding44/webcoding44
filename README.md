@@ -61,14 +61,15 @@
     <img src="https://skillicons.dev/icons?i=dotnet , fastapi , graphql , mongodb , postgres , nginx , sentry "/>
   </a>
 </p>
-
+             netlify        
           <br />
           <!-- second row -->
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=dark" />
-            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=light" />
-            <img src="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=light" alt="skills - 2" />
-        </picture>
+             <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker ,vite ,linux,vscode , discord , linkedin,  , git , github , githubactions , webpack , npm , postman , ps ,  "/>
+  </a>
+</p>
+
 
   </a>
 </p>
