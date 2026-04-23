@@ -21,7 +21,14 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm a passionate Full Stack Software Engineer with a strong focus on building scalable, efficient, and user-friendly applications.
+
+- 🔭 I’m working as a Full Stack Software Engineer, handling both frontend and backend development, designing robust architectures, and building secure, high-performance systems.
+- 💻 My technical skills include working with modern frontend frameworks, backend development, RESTful APIs, databases, version control (Git), and cloud-based solutions.
+- ⚙️ I have experience with system design, debugging, performance optimization, and writing clean, maintainable, and well-documented code.
+- 🤝 My soft skills include problem-solving, critical thinking, teamwork, communication, time management, and adaptability.
+- 📚 I'm continuously learning new technologies, improving my engineering skills, and staying up to date with industry best practices.
+- ⚡ In my free time I build side projects, explore new tools and technologies, and challenge myself with coding problems.</p>
 
 ###
 
@@ -104,9 +111,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
