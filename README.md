@@ -1,22 +1,57 @@
-I’m a Frontend Engineer focused on building scalable, high-performance web applications with a strong engineering mindset.
+<table align="center">
+    <td>
+    <a href="https://fvukelic.com" title="Visit my portfolio"><img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/></a>
+  </td>
+  <td>
+  <div align="center"><br/>
+  <h3>I’m a Frontend Engineer focused on building scalable, high-performance web applications with a strong engineering mindset.</h3>
+  <a href="">Visit my Portfolio</a> ››
+  <a href="https://www.linkedin.com/in/safiurahman-jami-/">Linkedin</a> ››
+</div> <br/>
+    <p><strong>🎨 Frontend</strong></p>
+    <ul>
+<li><strong>Frameworks:</strong> Next.js, React</li>
+      <li><strong>Languages:</strong> TypeScript, JavaScript</li>
+      <li><strong>Styling & UI:</strong> Tailwind, shadcn/ui, Sass, Bootstrap</li>
+      <li><strong>Animation & 3D:</strong> GSAP, Three.js, Framer Motion</li>
+      <li><strong>Practices:</strong> Responsive Design, Accessibility (WCAG) </li>
+    </ul>
+<p><strong>⚙ Backend Integration</strong></p>
+<ul>
+  <li><strong>Databases:</strong> Supabase, Postgres, Neon</li>
+</ul>
+    <p><strong>📈 Marketing</strong></p>
+<ul>
+  <li><strong>Analytics & Insights:</strong> PostHog, Google Analytics</li>
+  <li><strong>Optimization:</strong> SEO, A/B Testing, SEMrush/Ahrefs</li>
+  <li><strong>CRM: </strong>Loops, Mailchimp, Copywriting</li>
+</ul>
 
-🔹 Frontend:
-I build modern user interfaces using HTML, CSS, TailwindCSS, JavaScript, and TypeScript.
-My main stack includes React and Next.js for creating scalable and production-ready applications.
-I also create advanced UI experiences using GSAP for animations and Three.js for 3D and interactive web applications.
+<p><strong>🔹 Software Engineering Skills</strong></p>
 
-🔹 Backend Integration:
-I use Supabase as a backend service to handle authentication, databases (PostgreSQL), storage, and real-time features.
-I’m experienced in working with APIs and integrating backend services into frontend applications.
-For real-time functionality, I also work with Socket.IO when needed.
+<ul>
+    <li>design patterns, design systems, clean architecture,</li>
+    <li>Object-oriented programming(OOP)</li>
+    <li>data structures and algorithms(DSA)</li>
+</ul>
 
-🔹 Tools & Platforms:
-Git, GitHub, Docker, Sentry, Stripe, and modern development workflows.
+    
+<p><strong>💼 Tools & Platforms </strong></p>
+<ul>
+  <li><strong>AI:</strong>Git, GitHub,</li>
+  <li><strong>DevOps & CI/CD:</strong> Git, GitHub, Docker, Kubernetes</li>
+  <li><strong>Mobile Development:</strong>Docker, Sentry, Stripe,</li>
+  <li><strong>Hosting:</strong> Hostinger, Vercel, Netlify, Coolify</li>
+  <li><strong>Media:</strong>modern development workflows.</li>
 
-🔹 Software Engineering Skills:
-I apply software engineering principles such as design patterns, design systems, clean architecture, and OOP.
-I also have a solid understanding of data structures and algorithms (DSA), which helps me write efficient and maintainable code.
+  My focus is not just on building UI, but on creating scalable, maintainable, and production-ready web applications.
+ I’m open to freelance and remote opportunities.
+  
+<a href="https://fvukelic.com"><img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 400px; height:1px" /></a>
+</ul><br/>
+  </td>
+</table>
+<div align="center">
+  <a href="https://fvukelic.com" title="Visit my portfolio"><img src="https://i.postimg.cc/ncJ7vwqH/footer.gif"/></a>
+</div>
 
-My focus is not just on building UI, but on creating scalable, maintainable, and production-ready web applications.
-
-I’m open to freelance and remote opportunities.
