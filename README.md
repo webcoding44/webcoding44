@@ -1,6 +1,6 @@
 <table align="center">
     <td>
-    <a href="https://fvukelic.com" title="Visit my portfolio"><img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/></a>
+    <a href="" title=""><img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/></a>
   </td>
   <td>
   <div align="center"><br/>
@@ -52,6 +52,6 @@
   </td>
 </table>
 <div align="center">
-  <a href="https://fvukelic.com" title="Visit my portfolio"><img src="https://i.postimg.cc/ncJ7vwqH/footer.gif"/></a>
+  <a href=""><img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/></a>
 </div>
 
