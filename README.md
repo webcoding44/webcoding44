@@ -1,6 +1,6 @@
 <table align="center">
     <td>
-    <a href="" title=""><img src="https://i.postimg.cc/Hs3ghRR5/stack.jpg"/></a>
+    <a href="" title=""><img  width="300" height="200" src="https://i.postimg.cc/Hs3ghRR5/stack.jpg"/></a>
   </td>
   <td>
   <div align="center"><br/>
