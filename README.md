@@ -12,37 +12,35 @@
     <ul>
 <li><strong>Frameworks:</strong> Next.js, React</li>
       <li><strong>Languages:</strong> TypeScript, JavaScript</li>
-      <li><strong>Styling & UI:</strong> Tailwind, shadcn/ui, Sass, Bootstrap</li>
-      <li><strong>Animation & 3D:</strong> GSAP, Three.js, Framer Motion</li>
-      <li><strong>Practices:</strong> Responsive Design, Accessibility (WCAG) </li>
+      <li><strong>Styling & UI:</strong>Responsive Design, Tailwindcss, shadcn/ui, Sass, Bootstrap</li>
+      <li><strong>Animation & 3D:</strong> GSAP, Three.js(Basic), Framer Motion</li>
+      <li><strong>Advance Practices:</strong>WebAssembly , MicroFrontEdn , WebSockets </li>
     </ul>
 <p><strong>⚙ Backend Integration</strong></p>
 <ul>
-  <li><strong>Databases:</strong> Supabase, Postgres, Neon</li>
+  <li><strong>Databases:</strong> Supabase, SQL , Postgres, BetterAuth , Neon , Drizzle</li>
 </ul>
     <p><strong>📈 Marketing</strong></p>
 <ul>
   <li><strong>Analytics & Insights:</strong> PostHog, Google Analytics</li>
   <li><strong>Optimization:</strong> SEO, A/B Testing, SEMrush/Ahrefs</li>
-  <li><strong>CRM: </strong>Loops, Mailchimp, Copywriting</li>
 </ul>
 
 <p><strong>🔹 Software Engineering Skills</strong></p>
 
 <ul>
-    <li>design patterns, design systems, clean architecture,</li>
+    <li>design patterns, systems design , Clean architecture, Clean Code</li>
     <li>Object-oriented programming(OOP)</li>
     <li>data structures and algorithms(DSA)</li>
+    <li>data Jira and Jest</li>
 </ul>
 
     
 <p><strong>💼 Tools & Platforms </strong></p>
 <ul>
-  <li><strong>AI:</strong>Git, GitHub,</li>
-  <li><strong>DevOps & CI/CD:</strong> Git, GitHub, Docker, Kubernetes</li>
-  <li><strong>Mobile Development:</strong>Docker, Sentry, Stripe,</li>
+  <li><strong></strong>Git, GitHub, Docker , </li>
+  <li><strong></strong>Sentry, Stripe,</li>
   <li><strong>Hosting:</strong> Hostinger, Vercel, Netlify, Coolify</li>
-  <li><strong>Media:</strong>modern development workflows.</li>
 
   My focus is not just on building UI, but on creating scalable, maintainable, and production-ready web applications.
  I’m open to freelance and remote opportunities.
