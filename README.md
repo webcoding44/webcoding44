@@ -1,10 +1,10 @@
 <table align="center">
     <td>
-    <a href="" title=""><img width="1000" height="3500" src="https://i.postimg.cc/Hs3ghRR5/stack.jpg"/></a>
+    <a href="" title=""><img width="1500" height="3500" src="https://i.postimg.cc/Hs3ghRR5/stack.jpg"/></a>
   </td>
   <td>
   <div align="center"><br/>
-  <h3>I’m a Frontend Engineer focused on building scalable, high-performance web applications with a strong engineering mindset.</h3>
+  <h3>I’m a Frontend Engineer focused on building scalable, high-performance web applications with a strong engineering mindset and Backend Integration (Supabase).</h3>
   <a href="">Visit my Portfolio</a> ››
   <a href="https://www.linkedin.com/in/safiurahman-jami-/">Linkedin</a> ››
 </div> <br/>
