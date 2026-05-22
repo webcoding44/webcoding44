@@ -1,6 +1,6 @@
 <table align="center">
     <td>
-    <a href="" title=""><img width="1500" height="3500" src="https://i.postimg.cc/Hs3ghRR5/stack.jpg"/></a>
+    <a href="" title=""><img width="2000" height="3500" src="https://i.postimg.cc/Hs3ghRR5/stack.jpg"/></a>
   </td>
   <td>
   <div align="center"><br/>
@@ -22,7 +22,7 @@
 </ul>
     <p><strong>📈 Marketing</strong></p>
 <ul>
-  <li><strong>Analytics & Insights:</strong> PostHog, Google Analytics</li>
+  <li><strong>Analytics & Insights:</strong> PostHog, Google Analytics , clarity.microsoft</li>
   <li><strong>Optimization:</strong> SEO, A/B Testing, SEMrush/Ahrefs</li>
 </ul>
 
@@ -39,7 +39,7 @@
 <p><strong>💼 Tools & Platforms </strong></p>
 <ul>
   <li><strong></strong>Git, GitHub, Docker , </li>
-  <li><strong></strong>Sentry, Stripe,</li>
+  <li><strong></strong>Sentry, Stripe, CodeRabbit , opengraph , arcjet , nginx ,  </li>
   <li><strong>Hosting:</strong> Hostinger, Vercel, Netlify, Coolify</li>
 
   My focus is not just on building UI, but on creating scalable, maintainable, and production-ready web applications.
