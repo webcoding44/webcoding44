@@ -73,7 +73,7 @@
 ### Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,py,js,ts,nodejs,spring,nestjs,react,nextjs,angular,vue" alt="Core Stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,py,js,ts,cs" alt="Core Stack" />
 </p>
 
 ### Core Stack
