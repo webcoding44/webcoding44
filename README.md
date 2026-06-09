@@ -76,10 +76,26 @@
   <img src="https://skillicons.dev/icons?i=cpp,java,py,js,ts,cs" alt="Core Stack" />
 </p>
 
-### Core Stack
+### Core Stack Front-End
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,mongodb,materialui,threejs(Basic),dotnet,graphql,githubactions,git,bitbucket,nextjs,nginx,npm,redux,supabase,sentry," alt="Cloud and Platform" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,materialui,threejs(Basic),githubactions,git,redux," alt="Cloud and Platform" />
+  <img src="https://cdn.simpleicons.org/portainer/13BEF9" alt="Portainer" width="48" />
+  <img src="https://dagster-website.vercel.app/images/brand/logos/dagster-primary-mark.svg" alt="Dagster" width="48" />
+</p>
+
+### Core Stack Back-End
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=supabase,ORM,dotnet,mongodb,graphql" alt="Cloud and Platform" />
+  <img src="https://cdn.simpleicons.org/portainer/13BEF9" alt="Portainer" width="48" />
+  <img src="https://dagster-website.vercel.app/images/brand/logos/dagster-primary-mark.svg" alt="Dagster" width="48" />
+</p>
+
+### Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nginx,npm,sentry,bitbucket," alt="Cloud and Platform" />
   <img src="https://cdn.simpleicons.org/portainer/13BEF9" alt="Portainer" width="48" />
   <img src="https://dagster-website.vercel.app/images/brand/logos/dagster-primary-mark.svg" alt="Dagster" width="48" />
 </p>
