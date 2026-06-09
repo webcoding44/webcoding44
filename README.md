@@ -79,15 +79,15 @@
 ### Core Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,githubactions,git,bitbucket" alt="Cloud and Platform" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,mongodb,materialui,threejs(Basic),dotnet,graphql,githubactions,git,bitbucket,nextjs,nginx,npm,redux,supabase,sentry," alt="Cloud and Platform" />
   <img src="https://cdn.simpleicons.org/portainer/13BEF9" alt="Portainer" width="48" />
   <img src="https://dagster-website.vercel.app/images/brand/logos/dagster-primary-mark.svg" alt="Dagster" width="48" />
 </p>
 
-### APIs, AI, and Commerce Integrations
+### Hosting
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="netlify" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=101010" alt="Swagger" />
   <img src="https://img.shields.io/badge/SOAP-0A66C2?style=for-the-badge" alt="SOAP" />
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
