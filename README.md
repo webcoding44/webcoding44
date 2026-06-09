@@ -94,19 +94,6 @@
   <img src="https://skillicons.dev/icons?i=nginx,npm,sentry,bitbucket," alt="Cloud and Platform" />
 </p>
 
-### Hosting
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="netlify" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=101010" alt="Swagger" />
-  <img src="https://img.shields.io/badge/SOAP-0A66C2?style=for-the-badge" alt="SOAP" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
-  <img src="https://img.shields.io/badge/Commercetools-2E3A59?style=for-the-badge" alt="Commercetools" />
-  <img src="https://img.shields.io/badge/Contentful-2478CC?style=for-the-badge&logo=contentful&logoColor=white" alt="Contentful" />
-  <img src="https://img.shields.io/badge/Algolia-003DFF?style=for-the-badge&logo=algolia&logoColor=white" alt="Algolia" />
-  <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI" />
-</p>
-
 ---
 
 ## 📡 Live Engineering Dashboard
