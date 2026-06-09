@@ -49,23 +49,19 @@
 
 ## 🎯 Impact Areas
 
-<!-- <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=700&color=3A506B&center=true&vCenter=true&width=900&lines=Architecture+that+keeps+complexity+under+control;Delivery+systems+that+increase+engineering+throughput;Platforms+built+for+real+business+outcomes" alt="Impact typing" />
-</div> -->
-
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>🏗️ Architecture</h3>
-      <p>Domain-driven boundaries, modular services, and API contracts designed for long-term change.</p>
+      <h3>🧠 Front-End Engineering</h3>
+      <p>Modern frontend development using React, Next.js, and TypeScript with a focus on performance, scalability, and clean architecture. Experienced in building responsive and accessible UIs with TailwindCSS and smooth animations using GSAP.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>☁️ Cloud & Reliability</h3>
-      <p>Production hardening, infrastructure automation, and observability-first operational design.</p>
+      <h3>⚙️ Full-Stack & Backend Integration</h3>
+      <p>Building scalable backend solutions using Supabase and working with modern ORMs. Skilled in API design, authentication, and seamless frontend-backend integration.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>🛒 Commerce Platforms</h3>
-      <p>Composable stacks integrating checkout, content, search, personalization, and payments.</p>
+      <h3>🏗️ Software Engineering Principles</h3>
+      <p>Strong foundation in system design, OOP, design patterns, and data structures & algorithms (DSA). Focused on writing maintainable, testable, and production-ready code.</p>
     </td>
   </tr>
 </table>
