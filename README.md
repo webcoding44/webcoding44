@@ -2,17 +2,6 @@
   <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="Header Banner" />
 </div>
 
-<!-- <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=5BC0BE&center=true&vCenter=true&multiline=true&repeat=true&width=980&height=85&lines=Designing+scalable+systems+that+survive+real+traffic;Turning+complex+business+problems+into+clean+software" alt="Typing Animation" />
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Munich%2C%20Germany-0B132B?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Role-Senior%20Engineer-1C2541?style=for-the-badge&logo=codecrafters&logoColor=white" alt="Role" />
-  <img src="https://img.shields.io/badge/Focus-Composable%20Commerce-3A506B?style=for-the-badge&logo=shopify&logoColor=white" alt="Focus" />
-  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP-5BC0BE?style=for-the-badge&logo=icloud&logoColor=001219" alt="Cloud" />
-</p> -->
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kalagar&style=for-the-badge&color=0B132B" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/kalagar?style=for-the-badge&logo=github&label=Followers" alt="Followers" />
@@ -45,7 +34,7 @@
       </p>
       <p>
         🤝 <strong>Connect with me:</strong><br/>
-        <a href="https://www.linkedin.com/in/kalagar/">
+        <a href="https://www.linkedin.com/in/safiurahman-jami-/">
           <img src="https://img.shields.io/badge/LinkedIn-Let's%20Talk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
         </a>
       </p>
@@ -60,9 +49,9 @@
 
 ## 🎯 Impact Areas
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=700&color=3A506B&center=true&vCenter=true&width=900&lines=Architecture+that+keeps+complexity+under+control;Delivery+systems+that+increase+engineering+throughput;Platforms+built+for+real+business+outcomes" alt="Impact typing" />
-</div>
+</div> -->
 
 <table>
   <tr>
