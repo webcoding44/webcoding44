@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B132B,25:1C2541,50:3A506B,75:5BC0BE,100:6FFFE9&text=Mansour%20Kalagar&fontColor=ffffff&fontSize=52&animation=twinkling&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20Solution%20Architect%20%7C%20Consultant&descAlignY=61" alt="Header Banner" />
+  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="Header Banner" />
 </div>
 
 <div align="center">
