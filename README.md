@@ -136,22 +136,6 @@
 
 ---
 
-## 🏅 Certifications
-
-<div align="center">
-  <a href="https://www.credly.com/badges/763d5d2a-4681-4890-91f6-96b979fe71da/public_url">
-    <img src="https://github.com/kalagar/kalagar/assets/6311592/f44239a7-223f-4a6b-b0e3-b3edcadf3aaa" width="150" alt="DevOps Essentials Badge" />
-  </a>
-  <a href="https://www.credly.com/badges/8a944b32-a2d4-4598-8f99-61bda17769ee/public_url">
-    <img src="https://github.com/kalagar/kalagar/assets/6311592/6d5c949f-9170-4e78-97b3-c685191eaba5" width="150" alt="Cloud Computing Badge" />
-  </a>
-  <a href="https://www.credly.com/badges/0dda88f9-4e48-40f0-88a9-80c9b49bed0c/public_url">
-    <img src="https://github.com/kalagar/kalagar/assets/6311592/817a79c5-c763-4455-937c-2e9b7d63d08d" width="150" alt="Linux Badge" />
-  </a>
-</div>
-
----
-
 ## 🌟 Profile Motion Zone
 
 <div align="center">
