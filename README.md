@@ -70,13 +70,13 @@
 
 ## 🧰 Tech Universe
 
-### Core Stack
+### Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,js,ts,nodejs,spring,nestjs,react,nextjs,angular,vue" alt="Core Stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,py,js,ts,nodejs,spring,nestjs,react,nextjs,angular,vue" alt="Core Stack" />
 </p>
 
-### Cloud & Platform Engineering
+### Core Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,githubactions,git,bitbucket" alt="Cloud and Platform" />
