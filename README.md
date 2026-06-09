@@ -81,7 +81,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,materialui,threejs(Basic),githubactions,git,redux," alt="Cloud and Platform" />
   <img src="https://cdn.simpleicons.org/portainer/13BEF9" alt="Portainer" width="48" />
-  <img src="https://dagster-website.vercel.app/images/brand/logos/dagster-primary-mark.svg" alt="Dagster" width="48" />
 </p>
 
 ### Core Stack Back-End
@@ -89,7 +88,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=supabase,ORM,dotnet,mongodb,graphql,postgres,sql" alt="Cloud and Platform" />
   <img src="https://cdn.simpleicons.org/portainer/13BEF9" alt="Portainer" width="48" />
-  <img src="https://dagster-website.vercel.app/images/brand/logos/dagster-primary-mark.svg" alt="Dagster" width="48" />
 </p>
 
 ### Tools
