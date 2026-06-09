@@ -24,13 +24,14 @@
   <tr>
     <td width="62%" valign="top">
       <p>
-        With <strong>14+ years</strong> of engineering experience, I help companies build and evolve digital platforms that are resilient, modular, and fast to iterate.
+        With <strong>With 2+ years of experience in software engineering, I build modern, responsive, and scalable web applications focused on performance and user experience.
       </p>
       <p>
-        I care about architecture that scales with both <strong>traffic</strong> and <strong>teams</strong>, and delivery practices that make quality predictable.
+I specialize in frontend development using React, Next.js, TypeScript, and Tailwind CSS, and I work with tools like Supabase and modern ORMs to deliver full-stack solutions efficiently.
+I care about clean architecture, maintainable code, and applying software engineering principles like OOP, design patterns, and data structures to build reliable products.
       </p>
       <p>
-        <strong>Current themes:</strong> composable commerce, platform modernization, cloud-native delivery, and AI-assisted product workflows.
+        <strong>Current themes:</strong>Current focus: frontend performance, scalable UI architecture, full-stack development, and continuous learning in modern web technologies.
       </p>
       <p>
         🤝 <strong>Connect with me:</strong><br/>
