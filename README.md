@@ -80,7 +80,7 @@ I care about clean architecture, maintainable code, and applying software engine
 ### Core Stack Front-End
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,materialui,threejs(Basic),githubactions,git,redux," alt="Cloud and Platform" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,materialui,threejs,githubactions,redux," alt="Cloud and Platform" />
 </p>
 
 ### Core Stack Back-End
