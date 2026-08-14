@@ -27,7 +27,7 @@
         With <strong>With 2+ years of experience in software engineering, I build modern, responsive, and scalable web applications focused on performance and user experience.
       </p>
       <p>
-I specialize in frontend development using React, Next.js, TypeScript, and Tailwind CSS, and I work with tools like Supabase and modern ORMs to deliver full-stack solutions efficiently.
+I specialize in frontend Engineer using React, Next.js, TypeScript, and Tailwind CSS, and I work with tools like Supabase and modern ORMs to deliver full-stack solutions efficiently.
 I care about clean architecture, maintainable code, and applying software engineering principles like OOP, design patterns, and data structures to build reliable products.
       </p>
       <p>
@@ -54,7 +54,7 @@ I care about clean architecture, maintainable code, and applying software engine
   <tr>
     <td width="33%" valign="top">
       <h3>🧠 Front-End Engineering</h3>
-      <p>Modern frontend development using React, Next.js, and TypeScript with a focus on performance, scalability, and clean architecture. Experienced in building responsive and accessible UIs with TailwindCSS and smooth animations using GSAP.</p>
+      <p>Modern frontend Engineer using React, Next.js, and TypeScript with a focus on performance, scalability, and clean architecture. Experienced in building responsive and accessible UIs with TailwindCSS and smooth animations using GSAP.</p>
     </td>
     <td width="33%" valign="top">
       <h3>⚙️ Full-Stack & Backend Integration</h3>
