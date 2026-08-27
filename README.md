@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://chatgpt.com/backend-api/estuary/content?id=file_000000008cb881f68a7c9eb17a68a5c8&ts=496625&p=fs&cid=1&sig=951a6955792e120b0e3368e9faffc9409bb67d3d76e75333744e080223735d4e&v=0" alt="Header Banner" />
+  <img src="banner.png" alt="Header Banner" />
 </div>
 
 <p align="center">
