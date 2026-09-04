@@ -54,15 +54,23 @@ I care about clean architecture, maintainable code, and applying software engine
   <tr>
     <td width="33%" valign="top">
       <h3>🧠 Front-End Engineering</h3>
-      <p>Modern frontend Engineer using React, Next.js, and TypeScript with a focus on performance, scalability, and clean architecture. Experienced in building responsive and accessible UIs with TailwindCSS and smooth animations using GSAP.</p>
+      <p>I build modern, responsive user interfaces using HTML, CSS, TailwindCSS, JavaScript, and TypeScript.
+My main stack includes React and Next.js for creating scalable and production-ready applications.
+I create advanced UI experiences using GSAP for animations and Three.js (Basic) for 3D and interactive web applications.</p>
     </td>
     <td width="33%" valign="top">
       <h3>⚙️ Full-Stack & Backend Integration</h3>
-      <p>Building scalable backend solutions using Supabase and working with modern ORMs. Skilled in API design, authentication, and seamless frontend-backend integration.</p>
+      <p>I develop robust and scalable backend services using Node.js and NestJS.
+I work with both relational and NoSQL databases, including MongoDB and PostgreSQL (via Supabase).
+I’m highly experienced in designing and consuming RESTful APIs and integrating backend services seamlessly into frontend applications.
+For real-time functionality, I utilize Socket.IO and Supabase real-time features.</p>
     </td>
     <td width="33%" valign="top">
       <h3>🏗️ Software Engineering Principles</h3>
-      <p>Strong foundation in system design, OOP, design patterns, and data structures & algorithms (DSA). Focused on writing maintainable, testable, and production-ready code.</p>
+      <p>I apply core software engineering principles such as design patterns, systems design, clean architecture, clean code, and OOP.
+I have a solid understanding of Data Structures and Algorithms (DSA), which helps me write efficient, optimized, and maintainable code.
+My focus is not just on building UI, but on engineering scalable, maintainable, and production-ready web applications from end to end.
+I’m open to freelance and remote opportunities. Let’s connect and build something great together! 🚀</p>
     </td>
   </tr>
 </table>
@@ -86,7 +94,7 @@ I care about clean architecture, maintainable code, and applying software engine
 ### Core Stack Back-End
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=supabase,ORM,dotnet,mongodb,graphql,postgres,sql" alt="Cloud and Platform" />
+  <img src="https://skillicons.dev/icons?i=supabase,ORM,dotnet,mongodb,graphql,postgres,nodejs,sql,nestjs,appwrite" alt="Cloud and Platform" />
 </p>
 
 ### Tools
