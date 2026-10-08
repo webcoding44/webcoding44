@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" alt="Header Banner" />
+  <img src="banner.jpeg" alt="Header Banner" />
 </div>
 
 <p align="center">
@@ -24,14 +24,27 @@
   <tr>
     <td width="62%" valign="top">
       <p>
-        With <strong>With 2+ years of experience in software engineering, I build modern, responsive, and scalable web applications focused on performance and user experience.
+       I’m a Full-Stack Engineer focused on building scalable, high-performance web applications with a strong engineering mindset and a keen eye for user experience.
       </p>
       <p>
-I specialize in frontend Engineer using React, Next.js, TypeScript, and Tailwind CSS, and I work with tools like Supabase and modern ORMs to deliver full-stack solutions efficiently.
-I care about clean architecture, maintainable code, and applying software engineering principles like OOP, design patterns, and data structures to build reliable products.
+🔹 Frontend Development:
+I build modern, responsive user interfaces using HTML, CSS, TailwindCSS, JavaScript, and TypeScript.
+My main stack includes React and Next.js for creating scalable and production-ready applications.
+I create advanced UI experiences using GSAP for animations and Three.js (Basic) for 3D and interactive web applications.
       </p>
       <p>
-        <strong>Current themes:</strong>Current focus: frontend performance, scalable UI architecture, full-stack development, and continuous learning in modern web technologies.
+🔹 Backend & Database:
+I develop robust and scalable backend services using Node.js and NestJS.
+I work with both relational and NoSQL databases, including MongoDB and PostgreSQL (via Supabase).
+I’m highly experienced in designing and consuming RESTful APIs and integrating backend services seamlessly into frontend applications.
+For real-time functionality, I utilize Socket.IO and Supabase real-time features.
+      </p>
+      <p>
+          🔹 Software Engineering Skills:
+I apply core software engineering principles such as design patterns, systems design, clean architecture, clean code, and OOP.
+I have a solid understanding of Data Structures and Algorithms (DSA), which helps me write efficient, optimized, and maintainable code.
+My focus is not just on building UI, but on engineering scalable, maintainable, and production-ready web applications from end to end.
+I’m open to freelance and remote opportunities. Let’s connect and build something great together! 🚀
       </p>
       <p>
         🤝 <strong>Connect with me:</strong><br/>
@@ -46,36 +59,7 @@ I care about clean architecture, maintainable code, and applying software engine
   </tr>
 </table>
 
----
 
-## 🎯 Impact Areas
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🧠 Front-End Engineering</h3>
-      <p>I build modern, responsive user interfaces using HTML, CSS, TailwindCSS, JavaScript, and TypeScript.
-My main stack includes React and Next.js for creating scalable and production-ready applications.
-I create advanced UI experiences using GSAP for animations and Three.js (Basic) for 3D and interactive web applications.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>⚙️ Full-Stack & Backend Integration</h3>
-      <p>I develop robust and scalable backend services using Node.js and NestJS.
-I work with both relational and NoSQL databases, including MongoDB and PostgreSQL (via Supabase).
-I’m highly experienced in designing and consuming RESTful APIs and integrating backend services seamlessly into frontend applications.
-For real-time functionality, I utilize Socket.IO and Supabase real-time features.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🏗️ Software Engineering Principles</h3>
-      <p>I apply core software engineering principles such as design patterns, systems design, clean architecture, clean code, and OOP.
-I have a solid understanding of Data Structures and Algorithms (DSA), which helps me write efficient, optimized, and maintainable code.
-My focus is not just on building UI, but on engineering scalable, maintainable, and production-ready web applications from end to end.
-I’m open to freelance and remote opportunities. Let’s connect and build something great together! 🚀</p>
-    </td>
-  </tr>
-</table>
-
----
 
 ## 🧰 Tech Universe
 
@@ -94,7 +78,7 @@ I’m open to freelance and remote opportunities. Let’s connect and build some
 ### Core Stack Back-End
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=supabase,ORM,dotnet,mongodb,graphql,postgres,nodejs,sql,nestjs,appwrite" alt="Cloud and Platform" />
+  <img src="https://skillicons.dev/icons?i=supabase,ORM,mongodb,graphql,postgres,nodejs,sql,nestjs,appwrite" alt="Cloud and Platform" />
 </p>
 
 ### Tools
@@ -163,20 +147,16 @@ I’m open to freelance and remote opportunities. Let’s connect and build some
 
 ---
 
-## 🌟 Profile Motion Zone
+<!-- ## 🏅 Certifications
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B132B,50:3A506B,100:5BC0BE&height=2&section=header" alt="divider" width="90%" />
-</div>
-
-<p align="center">
-  <i>"Build systems that future you can still love maintaining."</i>
-</p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0B132B,25:1C2541,50:3A506B,75:5BC0BE,100:6FFFE9" alt="Footer Banner" />
-</div>
+  <a href="https://www.credly.com/badges/763d5d2a-4681-4890-91f6-96b979fe71da/public_url">
+    <img src="https://github.com/kalagar/kalagar/assets/6311592/f44239a7-223f-4a6b-b0e3-b3edcadf3aaa" width="150" alt="DevOps Essentials Badge" />
+  </a>
+  <a href="https://www.credly.com/badges/8a944b32-a2d4-4598-8f99-61bda17769ee/public_url">
+    <img src="https://github.com/kalagar/kalagar/assets/6311592/6d5c949f-9170-4e78-97b3-c685191eaba5" width="150" alt="Cloud Computing Badge" />
+  </a>
+  <a href="https://www.credly.com/badges/0dda88f9-4e48-40f0-88a9-80c9b49bed0c/public_url">
+    <img src="https://github.com/kalagar/kalagar/assets/6311592/817a79c5-c763-4455-937c-2e9b7d63d08d" width="150" alt="Linux Badge" />
+  </a>
+</div> -->
